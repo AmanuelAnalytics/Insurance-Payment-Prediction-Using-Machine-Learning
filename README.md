@@ -94,10 +94,8 @@ This model provides:
 
 ##  Deliverables
 
-- `insurance_payment_model.ipynb` — Full notebook with model development and visualizations  
-- `insurance_payment_model.py` — Script version (optional)  
-- `requirements.txt` — List of all dependencies  
-- `visuals/` — Folder with supporting plots (feature importance, predictions vs actuals, etc.)  
+- `insurance_payment_model.py` —— final pipeline    
+- `requirements.txt` — List of all dependencies   
 - This `README.md` — Executive summary and usage guide  
 
 ---
